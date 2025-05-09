@@ -33,7 +33,7 @@ function Main() {
 						</a>
 					</div>
 					<h1>Mohd Sami</h1>
-					<p>Full Stack Web Developer</p>
+					<p>Software Engineer</p>
 
 					<div className="mobile_social_icons">
 						<a
