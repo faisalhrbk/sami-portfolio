@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sami-portfolio/static/css/main.67802eda.css",
+    "main.js": "/sami-portfolio/static/js/main.23bb5046.js",
+    "static/js/453.f5c29a25.chunk.js": "/sami-portfolio/static/js/453.f5c29a25.chunk.js",
+    "static/media/mock10.png": "/sami-portfolio/static/media/mock10.2d05b02ba569a430a255.png",
+    "static/media/bg-light.png": "/sami-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/mock06.png": "/sami-portfolio/static/media/mock06.ea816617e0d0fa0f63ca.png",
+    "static/media/bg-dark.png": "/sami-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock03.png": "/sami-portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/profile.jpg": "/sami-portfolio/static/media/profile.9f439b2ac503b29ff13b.jpg",
+    "index.html": "/sami-portfolio/index.html",
+    "main.67802eda.css.map": "/sami-portfolio/static/css/main.67802eda.css.map",
+    "main.23bb5046.js.map": "/sami-portfolio/static/js/main.23bb5046.js.map",
+    "453.f5c29a25.chunk.js.map": "/sami-portfolio/static/js/453.f5c29a25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67802eda.css",
+    "static/js/main.23bb5046.js"
+  ]
+}
